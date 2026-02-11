@@ -1,0 +1,13 @@
+name: GPGN268
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - ipykernel
+  - scipy
+  - xarray
+  - cartopy
+  - numpy
+  - pandas
+  - matplotlib
+prefix: /home/ryandu/miniconda3/envs/GPGN268
